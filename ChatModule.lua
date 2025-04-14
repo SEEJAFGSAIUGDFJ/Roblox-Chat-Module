@@ -1,3 +1,7 @@
+-- Put this whereever, but ServerScriptService is preferred.
+
+-- Make a remote event called "ChatSystem" in Replicated Storage
+
 local ChatService = {}
 
 local Players = game:GetService("Players")
