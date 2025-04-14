@@ -1,3 +1,5 @@
+-- Put this into StarterPlayer->StarterPlayerScripts
+
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TextChatService = game:GetService("TextChatService")
 local event = ReplicatedStorage:WaitForChild("ChatSystem")
